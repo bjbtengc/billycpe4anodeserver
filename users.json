@@ -1,0 +1,22 @@
+{
+   "billy" : {
+      "name" : "billy joe",
+      "password" : "password1",
+      "section" : "CPE4A",
+      "id": 1
+   },
+   
+   "nonie" : {
+      "name" : "nonard",
+      "password" : "password2",
+      "section" : "CPE4A",
+      "id": 2
+   },
+   
+   "jam" : {
+      "name" : "jamir",
+      "password" : "password3",
+      "section" : "CPE4A",
+      "id": 3
+   }
+}
